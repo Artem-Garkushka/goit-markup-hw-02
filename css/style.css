@@ -15,22 +15,22 @@ ul{
     text-transform:uppercase;
     color:#4d5ae5;
 }
-.menu-list1{
+.header-soc-list{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing:0.02em;
     color: #2e2f42;
 }
-.menu-list1:hover{
+.header-soc-list:hover{
     color:#404bbf;
 }
-.menu-list1:focus{
+.header-soc-list:focus{
     color:#404bbf;
 }
 .header-accent{
     color:#2e2f42;
 }
-.header-addres{
+address{
     font-style: normal;
 }
 .footer-accent{
@@ -38,4 +38,9 @@ ul{
 }
 .footer{
     background-color: #2e2f42;
+}
+.footer-text{
+    color:#F4F4FD;
+    line-height:1.5;
+    letter-spacing:0.02em;
 }
