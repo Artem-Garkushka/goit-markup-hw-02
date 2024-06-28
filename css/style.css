@@ -30,14 +30,20 @@ ul{
 .header-accent{
     color:#2e2f42;
 }
+.main-title-01{
+    font-size:36px;
+    line-height:1.11;
+    text-align:center;
+
+}
 address{
     font-style: normal;
 }
-.footer-accent{
-    color: #f4f4fd;
-}
 .footer{
     background-color: #2e2f42;
+}
+.footer-accent{
+    color: #f4f4fd;
 }
 .footer-text{
     color:#F4F4FD;
