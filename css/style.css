@@ -1,0 +1,11 @@
+Body{
+    background-color: #ffffff;
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+.header-accent, .footer-accent{
+    color:#4d5ae5;
+}
