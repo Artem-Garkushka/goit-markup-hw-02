@@ -27,13 +27,15 @@ ul {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.menu-list-01{
+    color:#434455;
+}
 .header-menu-list:hover,
 .header-menu-list:focus{
     color:#404bbf;
 }
 address{
     font-style: normal;
-    color:#434455;
 }
 /* footer */
 .footer{
