@@ -37,6 +37,34 @@ ul {
 address {
   font-style: normal;
 }
+/* main */
+/* .main-title-t{
+    text-align: center;
+} */
+.main-title-t{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color:#ffffff;
+}
+.main-effective-solutions-for-your-business{
+    background-color: #2e2f42;
+}
+.main-button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.main-button:hover,
+.main-button:focus{
+    background-color: #404BBF;
+}
 /* footer */
 .footer {
   background-color: #2e2f42;
