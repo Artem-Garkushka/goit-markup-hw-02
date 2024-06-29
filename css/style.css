@@ -20,8 +20,11 @@ ul {
 .header-accent {
   color: #2e2f42;
 }
-.menu-list-item{
+/* .menu-list-item{
     color:#2e2f42;
+} */
+.header-soc-list-l{
+    color: #2e2f42;
 }
 .header-menu-list {
   font-weight: 500;
@@ -46,7 +49,7 @@ address {
     letter-spacing: 0.02em;
     color:#ffffff;
 }
-.main-effective-solutions-for-your-business{
+.main-hero{
     background-color: #2e2f42;
 }
 .main-button{
