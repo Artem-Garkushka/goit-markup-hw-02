@@ -38,9 +38,7 @@ address {
   font-style: normal;
 }
 /* main */
-/* .main-title-t{
-    text-align: center;
-} */
+/* one-section */
 .main-title-t{
     font-size: 56px;
     line-height: 1.07;
@@ -64,6 +62,19 @@ address {
 .main-button:hover,
 .main-button:focus{
     background-color: #404BBF;
+}
+/* two-section */
+.main-title-tech{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.main-text-on{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 /* footer */
 .footer {
