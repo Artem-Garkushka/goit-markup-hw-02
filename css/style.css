@@ -76,8 +76,12 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.main-soc-list-our-team{
+/* three-section */
+.main-our-team{
     background-color: #F4F4FD;
+}
+.main-soc-list-our-team{
+    background-color: #FFFFFF
 }
 .main-title-g{
     font-size: 36px;
