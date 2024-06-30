@@ -36,6 +36,8 @@ ul {
 .header-menu-list-items{
     color: #2e2f42;
 }
+.header-menu-list-items:hover,
+.header-menu-list-items:focus,
 .header-menu-list-item:hover,
 .header-menu-list-item:focus{
   color: #404bbf;
