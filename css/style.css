@@ -33,15 +33,15 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-menu-list-items{
-    color: #2e2f42;
-}
 .header-menu-list-item:hover,
-.header-menu-list-item:focus {
+.header-menu-list-item:focus, 
+.main-button:hover,
+.main-button:focus{
   color: #404bbf;
 }
 address {
   font-style: normal;
+  color: #2e2f42;
 }
 /* main */
 /* one-section */
@@ -64,10 +64,6 @@ address {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-}
-.main-button:hover,
-.main-button:focus{
-    background-color: #404BBF;
 }
 /* two-section */
 .main-title-tech{
