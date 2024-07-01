@@ -3,9 +3,6 @@ body {
   color: #434455;
   font-family: 'Roboto', sans-serif;
 }
-ul {
-  list-style-type: none;
-}
 /* header */
 .header-logo,
 .footer-logo {
@@ -22,10 +19,11 @@ ul {
 }
 .header-menu-list-item{
     font-size: 16px;
+    list-style: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-} 
+}
 .header-menu-list {
   font-weight: 500;
   font-size: 16px;
@@ -119,7 +117,6 @@ address {
     text-transform: capitalize;
     color:#2e2f42;
 }
-
 /* footer */
 .footer {
   background-color: #2e2f42;
