@@ -3,6 +3,12 @@ body {
   color: #434455;
   font-family: 'Roboto', sans-serif;
 }
+a{
+    text-decoration: none;
+}
+ul{
+    list-style:none;
+}
 /* header */
 .header-logo,
 .footer-logo {
